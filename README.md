@@ -18,3 +18,5 @@ This line added using `second-branch` in second commit
 This line added using `second-branch` in third commit  
 
 This line added using `second-branch` in fourth commit  
+
+This line added using `second-branch` in fifth commit
