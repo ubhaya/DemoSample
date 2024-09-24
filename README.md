@@ -16,3 +16,5 @@ This line added using `second-branch`
 This line added using `second-branch` in second commit  
 
 This line added using `second-branch` in third commit  
+
+This line added using `second-branch` in fourth commit  
