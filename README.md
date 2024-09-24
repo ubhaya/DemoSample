@@ -14,3 +14,5 @@ this line not to be committed in first commit.
 This line added using `second-branch` 
 
 This line added using `second-branch` in second commit  
+
+This line added using `second-branch` in third commit  
